@@ -1,0 +1,3 @@
+Hachage SHA256 de test.txt :
+42e20cbe942249d85888eb781322b8af910f4c3739567be3c382b3cd474fb803
+CertUtil: -hashfile La commande s’est terminée correctement.
